@@ -94,6 +94,10 @@ img.logo {
 
 }
 
+.content-card-container > .card-image-four {
+	margin: auto;
+	display: flex;
+}
 td {
     padding: -1rem;
 }
